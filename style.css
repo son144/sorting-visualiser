@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: rgb(49, 47, 47);
+}
+#main {
+  margin: 2rem auto;
+  width: 85rem;
+}
+#main .heading {
+  margin:  auto;
+  text-align: center;
+  font-family: "Courier New", Courier, monospace;
+}
+#main .heading h2 {
+  color: aliceblue;
+  font-size: 2.2rem;
+}
+.arrayBtn_div {
+  display: flex;
+}
+#visulasation {
+  width: 80%;
+  margin: 1rem auto;
+  display: flex;
+}
+.divs {
+  margin: 0rem 0;
+  width: 15px;
+  background-color: rgb(225, 203, 244);
+  border: 1px solid rgb(2, 2, 2);
+}
+p{
+  color: aliceblue;
+font-family: 'Times New Roman', Times, serif;
+}
